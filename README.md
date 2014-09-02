@@ -1,4 +1,4 @@
 py-bin
 ======
 
-a set of python cli tools
+a set of python cli tools for conky
